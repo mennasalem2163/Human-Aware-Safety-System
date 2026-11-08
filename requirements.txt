@@ -1,0 +1,4 @@
+# Direct dependencies; versions are not locked.
+ultralytics
+opencv-python
+lap
